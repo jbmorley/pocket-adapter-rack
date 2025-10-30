@@ -1,2 +1,3 @@
-# pocket-adapter-rack
-Storage for Analogue Pocket adapters
+# Pocket Adapter Rack
+
+Storage for Analogue Pocket adapters.
